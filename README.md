@@ -1,5 +1,5 @@
 # Myntra-Analysis
-Data analysis on Myntra sales trend using python pandas seaborn.includes visualization ,daa preprocessing
+Data analysis on Myntra sales trend using python, pandas, seaborn includes visualization ,data preprocessing
 
 # Myntra Sales Data Analysis
 
